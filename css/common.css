@@ -15,7 +15,9 @@ span,i,b,mark,strong{display: inline-block;}
 
 *{
   box-sizing: border-box;
-  color:#333;
-  font: size 1rem;
+  color:#fff;
+  font-size:1rem;
+
+  /* 1rem-16진수 */
 }
 
